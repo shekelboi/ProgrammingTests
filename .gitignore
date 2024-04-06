@@ -188,3 +188,6 @@ fabric.properties
 2013 October/checked.txt
 # 2015 May
 2015 May/participants.txt
+
+# Output of the grocery store exercise
+GroceryStores/Grocery_Store_Satus_Not_Null.csv
