@@ -191,3 +191,7 @@ fabric.properties
 
 # Output of the grocery store exercise
 GroceryStores/Grocery_Store_Satus_Not_Null.csv
+
+# Output of the subtitle shifter
+SubtitleShifter/*.srt
+!SubtitleShifter/The Social Network.srt
