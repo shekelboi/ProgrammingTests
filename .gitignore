@@ -195,3 +195,6 @@ GroceryStores/Grocery_Store_Satus_Not_Null.csv
 # Output of the subtitle shifter
 SubtitleShifter/*.srt
 !SubtitleShifter/The Social Network.srt
+
+# Output of APIs
+API_tasks/*.jpg
